@@ -7,14 +7,14 @@ Das FDZ Gesundheit befindet sich aktuell im Aufbau. Aktuelle Informationen finde
 
 ## Über diese Datensatzbeschreibung
 Dieses Repository enthält eine vorläufige Datensatzbeschreibung, welche über die Struktur der in Zukunft über das FDZ Gesundheit zugänglichen Daten informiert.  
-Ziel der Veröffentlichung dieser Datensatzbeschreibung ist es, interessierten Personen bereits vor Antragsstellung die Möglichkeit zu geben, sich mit dem DaTraV Datenkranz auseinander zu setzen und abzuschätzen, welche Forschungsvorhaben realisierbar und erfolgsversprechend sein könnten.
+Ziel der Veröffentlichung dieser Datensatzbeschreibung ist es, interessierten Personen bereits vor Antragsstellung die Möglichkeit zu geben, sich mit den Daten des FDZ auseinander zu setzen und abzuschätzen, welche Forschungsvorhaben realisierbar und erfolgsversprechend sein könnten.
 Die Daten sind in Abhängigkeit der Berichtsjahre auf unterschiedliche Datenmodelle aufgeteilt, welche sich inhaltlich unterscheiden.  
 Nicht alle Daten sind in allen Datenmodellen und für alle Berichtsjahre verfügbar.
 
 Alle Angaben ohne Gewähr. Es können noch Änderungen auftreten.
 
 ## Inhalt des Repositories
-- [Übersicht über die Tabellen der FDZ Daten nach Datenmodell](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/DSB_FDZ_Gesundheit_Tabellen.csv)
+- [Übersicht über die Tabellen der FDZ-Daten nach Datenmodell](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/DSB_FDZ_Gesundheit_Tabellen.csv)
 - [Datensatzbeschreibung auf Variablen-Ebene](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/DSB_FDZ_Gesundheit_Variablen.csv)
 - [Entity-Relationship Diagramm Datenmodell 1 und 2](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/ER_Datenmodell1_2.png)
 - [Entity-Relationship Diagramm Datenmodell 3](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/DSB_FDZ_Gesundheit_Variablen.csv)
