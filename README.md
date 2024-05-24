@@ -13,7 +13,7 @@ Nicht alle Daten sind in allen Datenmodellen und für alle Berichtsjahre verfüg
 
 Alle Angaben ohne Gewähr. Es können noch Änderungen auftreten.
 
-## Inhalt des Repositories:
+## Inhalt des Repositories
 - [Übersicht über die Tabellen der FDZ Daten nach Datenmodell](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/DSB_FDZ_Gesundheit_Tabellen.csv)
 - [Datensatzbeschreibung auf Variablen-Ebene](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/DSB_FDZ_Gesundheit_Variablen.csv)
 - [Entity-Relationship Diagramm Datenmodell 1 und 2](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/ER_Datenmodell1_2.png)
@@ -22,7 +22,7 @@ Alle Angaben ohne Gewähr. Es können noch Änderungen auftreten.
 
 Dort finden Sie erklärende Informationen, Entity Relationship (ER) Diagramme und interaktive Tabellen, die gefiltert, sortiert und zur Weiterverarbeitung exportiert werden können.
 
-## Interaktive Datensatzbeschreibung als HTML Datei:
+## Interaktive Datensatzbeschreibung als HTML Datei
 Eine interaktive Version der Datensatzbeschreibung mit zusätzlichen erklärenden Informationen finden sie **[hier](https://fdz-gesundheit.github.io/datensatzbeschreibung_fdz_gesundheit/)**.
 
 
