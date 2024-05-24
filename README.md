@@ -20,14 +20,12 @@ Alle Angaben ohne Gewähr. Es können noch Änderungen auftreten.
 - [Entity-Relationship Diagramm Datenmodell 3](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/DSB_FDZ_Gesundheit_Variablen.csv)
 - [Übersicht über die verwendeten Kataloge im FDZ](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/Kataloge.md)
 
-Dort finden Sie erklärende Informationen, Entity Relationship (ER) Diagramme und interaktive Tabellen, die gefiltert, sortiert und zur Weiterverarbeitung exportiert werden können.
-
 ## Interaktive Datensatzbeschreibung als HTML Datei
-Eine interaktive Version der Datensatzbeschreibung mit zusätzlichen erklärenden Informationen finden sie **[hier](https://fdz-gesundheit.github.io/datensatzbeschreibung_fdz_gesundheit/)**.
+Eine interaktive Version der Datensatzbeschreibung mit zusätzlichen, erklärenden Informationen finden Sie **[hier](https://fdz-gesundheit.github.io/datensatzbeschreibung_fdz_gesundheit/)**.
 
 
 ## Feedback
-Wenn Sie Feedback oder Fragen zu den Daten oder ihrer Dokumentation haben, können Sie sich gerne über das [Kontaktformular](https://www.forschungsdatenzentrum-gesundheit.de/kontakt) mit uns in Verbindung setzen!
+Wenn Sie Feedback oder Fragen zu den Daten oder der Datensatzbeschreibung haben, können Sie sich gerne über das [Kontaktformular](https://www.forschungsdatenzentrum-gesundheit.de/kontakt) mit uns in Verbindung setzen!
 
 Viel Spaß beim Erkunden der Daten! 
 
