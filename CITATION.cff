@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this data set, please cite it as below."
+authors:
+- given-names: "Forschungsdatenzentrum Gesundheit"
+title: "Datensatzbeschreibung FDZ Gesundheit"
+version: 0.1.0
+doi: 10.5281/zenodo.11056801.
+date-released: 2024-05-24
+url: "https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit"
