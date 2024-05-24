@@ -23,7 +23,7 @@ Alle Angaben ohne Gewähr. Es können noch Änderungen auftreten.
 Dort finden Sie erklärende Informationen, Entity Relationship (ER) Diagramme und interaktive Tabellen, die gefiltert, sortiert und zur Weiterverarbeitung exportiert werden können.
 
 ## Interaktive Datensatzbeschreibung als HTML Datei:
-Eine interaktive Version der Datensatzbeschreibung mit zusätzlichen erklärenden Informationen finden sie **[hier](https://fdz-gesundheit.github.io/test_dsb/)**.
+Eine interaktive Version der Datensatzbeschreibung mit zusätzlichen erklärenden Informationen finden sie **[hier](https://fdz-gesundheit.github.io/datensatzbeschreibung_fdz_gesundheit/)**.
 
 
 ## Feedback
