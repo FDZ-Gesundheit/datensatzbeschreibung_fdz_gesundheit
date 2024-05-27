@@ -17,7 +17,7 @@ Alle Angaben ohne Gewähr. Es können noch Änderungen auftreten.
 - [Übersicht über die Tabellen der FDZ-Daten nach Datenmodell](https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit/blob/main/DSB_FDZ_Gesundheit_Tabellen.csv)
 - [Datensatzbeschreibung auf Variablen-Ebene](https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit/blob/main/DSB_FDZ_Gesundheit_Variablen.csv)
 - [Entity-Relationship Diagramm Datenmodell 1 und 2](https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit/blob/main/ER_Datenmodell1_2.png)
-- [Entity-Relationship Diagramm Datenmodell 3](https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit/blob/main/DSB_FDZ_Gesundheit_Variablen.csv)
+- [Entity-Relationship Diagramm Datenmodell 3](https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit/blob/main/ER_Datenmodell3.png)
 - [Übersicht über die verwendeten Kataloge im FDZ](https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit/blob/main/Kataloge.md)
 
 ## Interaktive Datensatzbeschreibung als HTML Datei
