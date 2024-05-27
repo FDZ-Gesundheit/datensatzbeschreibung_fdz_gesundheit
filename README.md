@@ -14,11 +14,11 @@ Nicht alle Daten sind in allen Datenmodellen und für alle Berichtsjahre verfüg
 Alle Angaben ohne Gewähr. Es können noch Änderungen auftreten.
 
 ## Inhalt des Repositories
-- [Übersicht über die Tabellen der FDZ-Daten nach Datenmodell](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/DSB_FDZ_Gesundheit_Tabellen.csv)
-- [Datensatzbeschreibung auf Variablen-Ebene](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/DSB_FDZ_Gesundheit_Variablen.csv)
-- [Entity-Relationship Diagramm Datenmodell 1 und 2](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/ER_Datenmodell1_2.png)
-- [Entity-Relationship Diagramm Datenmodell 3](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/DSB_FDZ_Gesundheit_Variablen.csv)
-- [Übersicht über die verwendeten Kataloge im FDZ](https://github.com/FDZ-Gesundheit/test_dsb/blob/main/Kataloge.md)
+- [Übersicht über die Tabellen der FDZ-Daten nach Datenmodell](https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit/blob/main/DSB_FDZ_Gesundheit_Tabellen.csv)
+- [Datensatzbeschreibung auf Variablen-Ebene](https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit/blob/main/DSB_FDZ_Gesundheit_Variablen.csv)
+- [Entity-Relationship Diagramm Datenmodell 1 und 2](https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit/blob/main/ER_Datenmodell1_2.png)
+- [Entity-Relationship Diagramm Datenmodell 3](https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit/blob/main/DSB_FDZ_Gesundheit_Variablen.csv)
+- [Übersicht über die verwendeten Kataloge im FDZ](https://github.com/FDZ-Gesundheit/datensatzbeschreibung_fdz_gesundheit/blob/main/Kataloge.md)
 
 ## Interaktive Datensatzbeschreibung als HTML Datei
 Eine interaktive Version der Datensatzbeschreibung mit zusätzlichen, erklärenden Informationen finden Sie **[hier](https://fdz-gesundheit.github.io/datensatzbeschreibung_fdz_gesundheit/)**.
