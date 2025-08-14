@@ -32,7 +32,7 @@ Viel Spaß beim Erkunden der Daten!
 
 ## Zitation
 
-Forschungsdatenzentrum Gesundheit (2024): Datensatzbeschreibung des Forschungsdatenzentrums Gesundheit. Zenodo. [DOI:10.5281/zenodo.11056800](https://doi.org/10.5281/zenodo.11056800).
+Forschungsdatenzentrum Gesundheit (2025): Datensatzbeschreibung des Forschungsdatenzentrums Gesundheit. Zenodo. [DOI:10.5281/zenodo.11056800](https://doi.org/10.5281/zenodo.11056800).
 
 ## Lizenz
 

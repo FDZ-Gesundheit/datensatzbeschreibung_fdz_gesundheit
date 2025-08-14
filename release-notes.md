@@ -19,3 +19,12 @@
 - CSV-Dateien:
   - In den Dateien DSB_FDZ_Gesundheit_Tabellen.csv und DSB_FDZ_Gesundheit_Variablen.csv wurde das Berichtsjahr 2023 mit aufgenommen. 
   - In der Datei DSB_FDZ_Gesundheit_Variablen.csv wurde im Zuge des Updates für das Berichtsjahr 2023 der Datentyp der Variable `ENTGZAHL` der Tabelle `KHENTG` in Datenmodell 3 von numerisch 1-3 stellig auf numerisch 1-5 stellig geändert.
+
+
+  ### Version 0.2.4
+- CSV-Dateien:
+  - In der Datei DSB_FDZ_Gesundheit_Variablen.csv wurden die Datentypen für alle VSID & PSID auf VARCHAR(32) geändert.
+  - In der Datei DSB_FDZ_Gesundheit_Variablen.csv wurde die URL "https://www.kbv.de/media/sp/Arztnummern_Richtlinie.pdf" ersetzt durch "https://www.kbv.de/documents/infothek/rechtsquellen/weitere-vertraege/praxen/arzt-und-betriebsstaettennummer/Arztnummern_Richtlinie.pdf" in Beschreibungen für AMBFALL.BSNRKV & AMBFALL.BSNRUEBKV & AMBLEIST.NBSNRKV & AMBLEIST.TSVGBSNRKV .
+
+
+
