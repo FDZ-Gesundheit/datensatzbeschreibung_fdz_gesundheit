@@ -33,3 +33,11 @@
   - Texte aktualisiert
 - CSV-Dateien:
   - In der Datei DSB_FDZ_Gesundheit_Variablen.csv wurde die Beschreibungen aktualisiert für AMBDIAG.DIAGDAT .
+
+### Version 0.3.1
+- HTML-Datei:
+  - Links aktualisiert
+  - Texte aktualisiert
+  - Preview für Datenmodell 4 (DM4) Tabellen und Felder/Variablen hinzugefügt
+- CSV-Dateien:
+  - In der Datei DSB_FDZ_Gesundheit_Variablen.csv wurde die Anmerkungen für REZ.MENGE, EZD.FAKTOR und EZD.FAKTORKENNZEICHEN aktualisiert.
